@@ -49,7 +49,7 @@ javascript-fundamentals-part1/
 
 **🚀 How to Run the Code**
 Clone this repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/chaitanya23k/javascript-fundamentals-assignments-part1.git
 Open the project folder in VS Code
 Run the JavaScript files using:
 Browser Console
